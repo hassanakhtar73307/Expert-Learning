@@ -1,0 +1,177 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Alice-Regular.ttf",
+      "sha1": "7abf3b73f620de8e1242966e7079016bcecb4fe3"
+    },
+    {
+      "path": "assets/fonts/Jost-Bold.ttf",
+      "sha1": "60eaf9ab668280a6ec2f5fc4f85bd285f22f8313"
+    },
+    {
+      "path": "assets/fonts/Jost-Medium.ttf",
+      "sha1": "cbf1f8ccae3a749b57e766eaa460a301f2392d41"
+    },
+    {
+      "path": "assets/fonts/Jost-Regular.ttf",
+      "sha1": "63de8f35a2b969d64b1e4012d26a38e8be1e01ae"
+    },
+    {
+      "path": "assets/fonts/Jost-SemiBold.ttf",
+      "sha1": "f2634732403730d25cdf33f789df97874a773ada"
+    },
+    {
+      "path": "assets/fonts/Mulish-Bold.ttf",
+      "sha1": "97cb4086e384a1e2e8688985b7eb8cbbc63354cb"
+    },
+    {
+      "path": "assets/fonts/Mulish-Medium.ttf",
+      "sha1": "6201b3d5d10905f878860861d4e7ebcca6ca3936"
+    },
+    {
+      "path": "assets/fonts/Mulish-Regular.ttf",
+      "sha1": "65aa946a76999c7fe9a6b4478e9c35db9c80b137"
+    },
+    {
+      "path": "assets/fonts/Mulish-SemiBold.ttf",
+      "sha1": "0935586660615fe1c41fc1bc8aa3a5e0c8c744a8"
+    },
+    {
+      "path": "assets/Icons/activeBookmark.png",
+      "sha1": "2a22b3bfc7f75726197260a7c3e5c0fb77beba9e"
+    },
+    {
+      "path": "assets/Icons/activeCheck.png",
+      "sha1": "a0a8ecad42a7b814d20ddfc261bb540d299ae47e"
+    },
+    {
+      "path": "assets/Icons/activefav.png",
+      "sha1": "44ac5394b1bd44cb05b791491eed238971789323"
+    },
+    {
+      "path": "assets/Icons/back.png",
+      "sha1": "78c61eb527d923543be574de0c7e0b9c86945e61"
+    },
+    {
+      "path": "assets/Icons/bookmark.png",
+      "sha1": "bc8c54bd0d71e053907a32bdaa39bca9a26fea89"
+    },
+    {
+      "path": "assets/Icons/call.png",
+      "sha1": "b3653508d19fe75c764944dd5fb427d44d56577b"
+    },
+    {
+      "path": "assets/Icons/camera.png",
+      "sha1": "21df537171b41d3e2d191dfae290c72759d50e6f"
+    },
+    {
+      "path": "assets/Icons/checkbox.png",
+      "sha1": "802de0acb8db1dc232fb2e6df6dcf7c0d278b40c"
+    },
+    {
+      "path": "assets/Icons/clock.png",
+      "sha1": "949c3582da74e87fd50c2f31f2cf90970ae7eb10"
+    },
+    {
+      "path": "assets/Icons/close.png",
+      "sha1": "8d6fede8601e1faf2a8a907392d3ef0ee81f8e49"
+    },
+    {
+      "path": "assets/Icons/closeeye.png",
+      "sha1": "7df8a580ba16137590adc03a0930532fd270859f"
+    },
+    {
+      "path": "assets/Icons/edit.png",
+      "sha1": "2ff9c57ee3385f45128c26fe2d10be5f41fe8286"
+    },
+    {
+      "path": "assets/Icons/email.png",
+      "sha1": "c1230f0440d9d18dd8c3b17b7a8aefcd0a8edd64"
+    },
+    {
+      "path": "assets/Icons/fav.png",
+      "sha1": "1a0908ea817a001947c072a39a73d522f8655110"
+    },
+    {
+      "path": "assets/Icons/feed.png",
+      "sha1": "b7312dc098ccc156f7e4eceeffe76bb1d43dac48"
+    },
+    {
+      "path": "assets/Icons/filterbg.png",
+      "sha1": "64be3c40a8c5d498e06b0c4bd07f2398bb6c8aa2"
+    },
+    {
+      "path": "assets/Icons/home.png",
+      "sha1": "91008c653231acd6ec32df66886365f58b229e65"
+    },
+    {
+      "path": "assets/Icons/jobs.png",
+      "sha1": "5f37ea5612f7d163d19ed20d009e1cac40c4d72d"
+    },
+    {
+      "path": "assets/Icons/mailbg.png",
+      "sha1": "a65092fd6814907c009b2b0b603fc34133f7f8ed"
+    },
+    {
+      "path": "assets/Icons/mesg.png",
+      "sha1": "19fba34bd09897f578e181c85a89349b8d58a338"
+    },
+    {
+      "path": "assets/Icons/notification.png",
+      "sha1": "65c6e0106f3df31c7e665f0f5e1892c83542b727"
+    },
+    {
+      "path": "assets/Icons/openeye.png",
+      "sha1": "f0b3923f2b40754a9d2833c7aaf2839aa4951356"
+    },
+    {
+      "path": "assets/Icons/password.png",
+      "sha1": "2cb3eb22a70da75c72fa5ff14d5d6b9badbdac28"
+    },
+    {
+      "path": "assets/Icons/search.png",
+      "sha1": "65d7f92ea1f327c16aabc21adc6c3fa9de99ded4"
+    },
+    {
+      "path": "assets/Icons/searchbg.png",
+      "sha1": "9a067fed6c215288d3ca8e39e801ec967c4aad62"
+    },
+    {
+      "path": "assets/Icons/star.png",
+      "sha1": "11eddb90b48239ac4342bfbfbcd1a42b29be0feb"
+    },
+    {
+      "path": "assets/Icons/uploadFile.png",
+      "sha1": "d693b88eec54889ecf70c7bda2782f37ce718ff5"
+    },
+    {
+      "path": "assets/Icons/user.png",
+      "sha1": "8f910641240b168d62a0f55b2ae7606547849f3d"
+    },
+    {
+      "path": "assets/Icons/video.png",
+      "sha1": "c12fb24714325e900670550848a014328cd7bb8c"
+    },
+    {
+      "path": "assets/Images/appLogo.png",
+      "sha1": "ef7fd50bc1b6668c1b65073cdb5dc2315890f950"
+    },
+    {
+      "path": "assets/Images/coursecomp.png",
+      "sha1": "8f48b7b8a6548c2c08f05125ed19d239080b34b0"
+    },
+    {
+      "path": "assets/Images/forgotpassword.png",
+      "sha1": "6c53be8e9ac0026d22c82443d0d5c46627e5a3ee"
+    },
+    {
+      "path": "assets/Images/slpash.png",
+      "sha1": "10a5613b721aa261474563060aa36615d11ad4fc"
+    },
+    {
+      "path": "assets/Images/success.png",
+      "sha1": "bf4bb6dfbe10fbc21099e711e4387fea2f1a464f"
+    }
+  ]
+}
